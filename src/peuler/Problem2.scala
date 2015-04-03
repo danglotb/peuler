@@ -26,12 +26,7 @@ class Fibonacci {
   def isFinish() : Boolean = {
     return nextCurrent >= end
   }
-  
-  
 }
-
-
-
 
 object Problem2 extends App {
   
