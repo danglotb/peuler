@@ -6,7 +6,7 @@ package peuler
 object Problem6 extends App {
   var x = 0L
   var y = 0L
-  for (i <- 1 until 1001) {
+  for (i <- 1 until 101) {
     x += (i*i)
     y += i
   }
